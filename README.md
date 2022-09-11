@@ -1,5 +1,5 @@
 ## Meesho Clone [Meesho Clone](https://meesho-by-nitrogen.netlify.app)
-Meesho is an indian e-commerce company, We tried core functionalities of Meesho during Third Construct Week held after completition of Unit 4 in Masai.
+Meesho is an indian e-commerce company that allows people to resell products using their social networks.
 
 ## Technologies used :-
 1) React
